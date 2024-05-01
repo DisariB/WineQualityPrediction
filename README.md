@@ -9,4 +9,5 @@ Description: You have to build a wine quality prediction ML model in Spark over 
 
 1. In the AWS Learning Lab, search for EMR and open the EMR console
 2. Create a new cluster
+
    a. 
